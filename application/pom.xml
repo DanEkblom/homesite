@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Homesite-Web</name>
+	<name>Homesite-Application</name>
 	<description>Spring Boot homesite - Application module</description>
 
 	<properties>

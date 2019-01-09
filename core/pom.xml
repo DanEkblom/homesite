@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>se.danekblom</groupId>
-	<artifactId>site-application</artifactId>
+	<artifactId>site-core</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Homesite-Web</name>
-	<description>Spring Boot homesite - Application module</description>
+	<name>Homesite-Core</name>
+	<description>Spring Boot homesite - Core module</description>
 
 	<properties>
 		<java.version>1.8</java.version>
